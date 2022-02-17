@@ -1,0 +1,23 @@
+p {
+  color: gray;
+}
+
+ol a {
+  color: green;
+  text-decoration: line-through solid blue;
+}
+
+h1 {
+  color: red;
+  text-decoration: underline;
+}
+
+h2 {
+  font-weight: normal;
+  text-shadow: 2px 2px 5px yellow;
+}
+
+h3 {
+  text-shadow: 0 3px 5px green;
+  text-decoration: underline dotted brown;
+}

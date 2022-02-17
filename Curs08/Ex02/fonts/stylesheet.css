@@ -105,12 +105,3 @@
   font-style: italic;
   font-display: swap;
 }
-body {
-  font-family: 'Roboto';
-}
-
-h1 {
-  color: red;
-  font-family: 'Julius Sans One';
-  font-size: 35px;
-}
