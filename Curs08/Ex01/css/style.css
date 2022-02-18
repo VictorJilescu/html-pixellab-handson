@@ -21,3 +21,18 @@ h3 {
   text-shadow: 0 3px 5px green;
   text-decoration: underline dotted brown;
 }
+
+ul li {
+  color: purple;
+  text-decoration: underline;
+}
+
+b {
+  color: yellow;
+}
+
+i {
+  color: blue;
+  text-decoration: line-through;
+  font-weight: bold;
+}
