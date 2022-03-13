@@ -1,4 +1,23 @@
-/* add code */
+.main a:hover {
+  text-decoration: none;
+}
+
+.main li:nth-of-type(2n) a:hover {
+  color: red;
+}
+
+h1:hover {
+  text-decoration: underline;
+}
+
+p:hover i {
+  left: 2px;
+  top: -2px;
+}
+
+.secondary a:hover {
+  text-decoration: overline;
+}
 
 .main li:nth-of-type(2n + 1) a:hover {
   text-decoration: none;
@@ -10,4 +29,12 @@ p:hover b {
   position: relative;
   top: -2px;
   cursor: pointer;
+}
+
+p b {
+  position: relative;
+}
+
+p i {
+  position: relative;
 }
